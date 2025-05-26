@@ -70,7 +70,6 @@ The seasonal component is  1006.13 which is ~0.81% of the variation in time seri
 <img width="877" alt="Screenshot 2025-05-26 at 10 30 45 AM" src="https://github.com/user-attachments/assets/4d42df4b-032d-47d1-9fab-77b80650752e" />
 
 
-
 ## Usage
 
 Run the notebook cells sequentially to perform the analysis. Ensure that the dataset is available in the specified path within the notebook.
